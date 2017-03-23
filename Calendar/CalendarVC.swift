@@ -201,8 +201,6 @@ class CalendarVC: UIViewController {
             dest?.selectedDay = dateSender
         //
         
-        
-        
     }
 }
 
