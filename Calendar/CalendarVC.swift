@@ -199,7 +199,6 @@ class CalendarVC: UIViewController {
         let dest = segue.destination as? CalendarAddEventVC
         let dateSender = sender as? String
             dest?.selectedDay = dateSender
-        
         //
         
         
